@@ -7,8 +7,9 @@
 ## Содержание
 
 - Общее руководство
-  - [Ежемесячные собрания](./monthly-meeting-guide.md)
   - [Правила для членов учебного сектора](./sector-rules.md)
+  - [Ежемесячные собрания](./monthly-meeting-guide.md)
+  - [1:1 встречи](./one-on-one-guide.md)
   - [Правила обработки персональных данных](./personal-data-guide.md)
   - [Феномен «Догвилль» и защита личных границ](./dogville-boundaries-guide.md)
 
